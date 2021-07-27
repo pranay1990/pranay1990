@@ -10,9 +10,13 @@ data science. From that day forward, I have just finished two of Udacity’s Nan
 and SQL Nanodegree Program. That’s why I am familiar with following major data science skills,
  1. Python.
  2. Postgres SQL.
- 3. NLTK.
- 4. A/B testing.
- 5. Building recommendation engines. 
+ 3. Data ETL (Extract Transform Load)
+ 4. Machine Learning ( Supervised, Unsupervised, and Clustering techniques), and building ML pipelines.
+ 5. ML libraries : Sci-kit Learn, keras, TF.
+ 6. Artificical neural networks (CNN, RNN).
+ 7. NLTK.
+ 8. A/B testing.
+ 9. Building recommendation engines. 
  
 As part of the Nanodegree programs, I have completed 4 projects in Data Science and 2 projects in SQL, which received good grades and were praised by reviewers.
 
