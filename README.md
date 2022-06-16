@@ -1,7 +1,7 @@
 #### Hi everyone
 
 
-My name is Pranay Barkataki, I have recently successfully defended my doctoral thesis at Visvesvaraya National Institute of Technology, Nagpur, India. 
+My name is Pranay Barkataki, I am currently working as a Data Analyst Consultant at Sony India Software Centre Private Limited. I have completed my PhD from Visvesvaraya National Institute of Technology, Nagpur, India. 
 My research work was on quantum information , and quantum many body systems. My background in theoretical physics gives me a strong foundational understanding 
 of the following fields, **statistics**, **linear algebra**, and **calculus**, and as we know that these fields are core ingredients in understanding any machine
 learning model or performing any data science task. In the midst of my Ph.D., I came across the interesting paper written by Carleo Giuseppe on 
@@ -20,7 +20,7 @@ and SQL Nanodegree Program. That’s why I am familiar with following major data
  
 As part of the Nanodegree programs, I have completed 4 projects in Data Science and 2 projects in SQL, which received good grades and were praised by reviewers.
 
-Currently, in collaboration with my Ph.D. guide, we have written a book on ***Numerical Recipes in Quantum Information and Computation***. In this book, we
+I have recently published a book in collaboration with my Ph.D. guide, and the title of the book is ***Numerical Recipes in Quantum Information and Computation***. In this book, we
 developed a downloadable Python package for all quantum information and computation tasks. This book is currently under communication with the CRC Press.
 
 **Hobbies**: I love to read books, play table tennis and cricket.
