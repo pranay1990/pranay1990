@@ -1,26 +1,30 @@
 #### Hi everyone
 
 
-I am Pranay Barkataki, currently working as a Data Analyst consultant at Sony India Software Centre Private Limited. In my current role, I put together data preprocessing, data analysis, statistical analysis, and machine learning models to draw insights that help to deliver value. Here are a few examples of my work:
-1) Developed a dashboard for the TA team of the time duration for different stages of the interview process and the trend of the number of hired candidates from different partner companies. The dashboard enables the TA team to report and act on optimizing the duration of different interview stages and monitoring the performance of the partner companies.
-2) Worked on customer data of Sony video editing software, where we statistically analyzed customer behavior and drew conclusions for customer conversion to a paid subscription.
+I am Pranay Barkataki, currently working as a Data Scientist at Sony India Software Centre Private Limited. In my current role, I put together data preprocessing, data analysis, statistical analysis, machine learning, and deep learning models to draw insights that help to deliver value. The roles and responsibilities of my job are described below.
+* Developed data preprocessing, interactive dashboards for Sony's recruitment team, ensuring data consistency and driving data-driven decisions.
+* Conducted comprehensive data analysis on customer behavior and conversion patterns, leading to a
+4% increase in membership conversion.
+* Developed and deployed machine learning models to detect anomalies in manufacturing tools, resulting in a reduction of downtime by 2 hours
+* Authored 6 tutorials and contributed high-quality code to Sony's esteemed Responsible AI GitHub repository
 
-I am familiar with following major data science skills,
+I am familiar with the following major data science skills,
  1. Python.
  2. SQL.
  3. Data Pipelines ETL (Extract Transform Load)
  4. Data Visualization
  5. Statistical Analysis
  6. Machine Learning ( Supervised, Unsupervised, and Clustering techniques), and building ML pipelines
- 7. ML libraries : Sci-kit Learn, keras, TensorFlow, Pytorch, HuggingFace, Pandas, NumPy.
- 8. Artificical neural networks (CNN, RNN, Transformers, BERT)
+ 7. ML libraries: Sci-kit Learn, Keras, TensorFlow, Pytorch, HuggingFace, Pandas, NumPy.
+ 8. Deep Learning (CNN, RNN, Transformers, BERT, RNN, LSTM, YOLO, Transformers, LLMs)
  9. Natural Language Processing
  10. Computer Vision
  11. A/B testing
  12. Building recommendation engines
  13. Javascript
+ 14. Dockers
  
-I have completed my PhD from Visvesvaraya National Institute of Technology, Nagpur, India. My 6 years of research experience give me an added advantage of creating less technically driven compelling pitches and presentations for business purposes. As famously said by the great physicist Albert Einstein:
+I have completed my Ph.D. from Visvesvaraya National Institute of Technology, Nagpur, India. My 6 years of research experience give me an added advantage of creating less technically driven compelling pitches and presentations for business purposes. As famously said by the great physicist Albert Einstein:
 *"If you can't explain it simply, you don't understand it well enough."* 
 I get excited about opportunities where I am able to leverage big data to discover insights and identify patterns to help businesses make decisions.
 
